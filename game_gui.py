@@ -1,5 +1,9 @@
-from cmath import pi
-import pygame, sys, game, time, pieces
+import sys
+
+import pygame
+
+import game
+import pieces
 from constants import CELL_SIZE
 
 pygame.init()
